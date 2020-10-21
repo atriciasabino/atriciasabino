@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![capa github](https:https://github.com/atriciasabino/atriciasabino/capa-github.png)  
+![capa github](https:https://github.com/atriciasabino/atriciasabino/blob/main/capa-github.png)  
 
 
 <center>
