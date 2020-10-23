@@ -22,7 +22,7 @@ Sou professora, pesquisadora e Desenvolvedora atuo na área desde 2015 (e desde 
 
 
 
-:revolving_hearts:   
+:revolving_hearts: Incentivando pessoas a entrarem no mundo da computação. 
 
 ---
 
