@@ -1,13 +1,11 @@
-### Hi there 👋
-
-![capa github](https://github.com/atriciasabino/atriciasabino/blob/main/capa-github.png)  
+![capa github](https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Capa_github.png)  
 
 
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atriciasabino&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=\&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiadasilva&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=leticiadasilva&theme=buefy"/></td>
     </tr>   
   </table>
 </center>  
@@ -15,6 +13,7 @@
 ### Olá! Boas vindas :) <img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/Hi.gif" width="30px">
 
 ---
+
 
 Sou professora, pesquisadora e Desenvolvedora atuo na área desde 2015 (e desde 2011 envovilda no mundo da computação :scream:) e sou graduanda em Redes de Computadores e Mestre em Ciência da Computação.
 
