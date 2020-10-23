@@ -15,13 +15,21 @@
 ---
 
 
-Sou professora, pesquisadora e Desenvolvedora atuo na área desde 2015 (e desde 2011 envovilda no mundo da computação :scream:) e sou graduanda em Redes de Computadores e Mestre em Ciência da Computação.
+Sou professora, pesquisadora e entusiasta da cultura DevOps. Atuo na área desde 2015 (e desde 2011 envovilda no mundo da computação :scream:). Sou graduada em Redes de Computadores pela UFC e Mestre em Ciência da Computação pelo centro de Informática da UFPE.
 
 ---
 
 
 
 :revolving_hearts: Incentivando pessoas a entrarem no mundo da computação. 
+
+Você não precisa disso para ser um programador:
+
+- Um diploma de Ciência da Computação.
+- Laptop muito poderoso.
+- Configuração extravagante.
+
+Tudo que você precisa, um laptop e persistência. 
 
 ---
 
