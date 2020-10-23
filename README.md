@@ -16,13 +16,13 @@
 
 ---
 
-Sou professora, atuo na área desde 2017 (e desde 2005 estudando informática :scream:) e sou graduanda em Ciência da Computação.
-rrstrtwgsssssssetttttttttttttttttt
+Sou professora, pesquisadora e Desenvolvedora atuo na área desde 2015 (e desde 2011 envovilda no mundo da computação :scream:) e sou graduanda em Redes de Computadores e Mestre em Ciência da Computação.
+
 ---
 
 
 
-Luto para incentivar pessoas, principalmente mulheres, a entrarem em TI, acreditarem em si mesmas e mostrar que programar transforma vidas! :revolving_hearts:   
+:revolving_hearts:   
 
 ---
 
