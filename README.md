@@ -41,7 +41,7 @@ Onde me encontrar? :mag:
 
 <a href="https://www.linkedin.com/in/atriciasabino"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/atriciasabino)  
 
-<a href="mailto:atriciasabino.contato@gmail.com"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/email.png" width="16"></img></a> [Email](mailto:atriciasabino.contato@gmail.com)  
+ 
 
 ---  
 
