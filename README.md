@@ -15,7 +15,7 @@
 ---
 
 
-Sou professora, pesquisadora e entusiasta da cultura DevOps. Atuo na área desde 2015 (e desde 2011 envovilda no mundo da computação :scream:). Sou graduada em Redes de Computadores pela UFC e Mestre em Ciência da Computação pelo centro de Informática da UFPE.
+Sou professora, pesquisadora e entusiasta da cultura DevOps. Sou graduada em Redes de Computadores pela UFC e Mestre em Ciência da Computação pelo centro de Informática da UFPE.
 
 ---
 
