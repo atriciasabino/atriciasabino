@@ -30,8 +30,7 @@ Vamos lá resolver problemas ?
 Onde me encontrar? :mag:  
 
 <a href="https://twitter.com/atriciasabino"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/atriciasabino)   
-
-<a href="https://www.instagram.com/atriciasabino/"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/atriciasabino)  
+ 
 
 <a href="https://www.linkedin.com/in/atriciasabino"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/atriciasabino)  
 
