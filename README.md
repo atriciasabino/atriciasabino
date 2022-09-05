@@ -23,13 +23,7 @@ Sou professora, pesquisadora e entusiasta da cultura DevOps. Sou graduada em Red
 
 :revolving_hearts: Incentivando pessoas a entrarem no mundo da computação. 
 
-Você não precisa disso para ser um programador:
-
-- Um diploma de Ciência da Computação.
-- Laptop muito poderoso.
-- Configuração extravagante.
-
-Tudo que você precisa, um laptop e persistência. 
+Vamos lá resolver problemas ? 
 
 ---
 
